@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<default revision="krogoth" sync-j="4"/>
+
+  <project remote="github" name="Metrological/meta-metrological" path="layers/meta-metrological" revision="master"/>
+</manifest>
