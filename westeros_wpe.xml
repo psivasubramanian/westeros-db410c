@@ -2,5 +2,5 @@
 <manifest>
 <default revision="krogoth" sync-j="4"/>
 
-  <project remote="github" name="Metrological/meta-metrological" path="layers/meta-metrological" revision="master"/>
+  <project remote="github" name="Metrological/meta-metrological" path="layers/meta-metrological" revision="f52bbed2dd4aa7f223c31cdeb0caf29095840d4c"/>
 </manifest>
